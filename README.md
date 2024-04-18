@@ -16,21 +16,16 @@
 - Buscar pessoa na fila pelo CPF.
 
 ### Tela Inicial:
-<figure>
-  <img src="![image](https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/65622912-b4f5-44df-aba7-7137733930bb")>
-</figure>
-### Nomes na Fila:
-<figure>
-  <img src="![image](https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/05a3648b-38cc-4d8e-bf74-a40579f6e9d4)">
-</figure>
+<img src="https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/65622912-b4f5-44df-aba7-7137733930bb">
+
+### Nomes na Lista:
+<img src="https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/05a3648b-38cc-4d8e-bf74-a40579f6e9d4">
+
 ### Atendimento:
-<figure>
-  <img src="![image](https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/f87bf2ca-00dd-42b3-bcfe-fa3ff0e22978)">
-</figure>
+<img src="https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/f87bf2ca-00dd-42b3-bcfe-fa3ff0e22978">
+
 ### Busca por CPF:
-<figure>
-  <img src="![image](https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/e4cfe849-f0a4-4cd9-be21-b23c88081c89)">
-</figure>
+<img src="https://github.com/gabizdini/FilaAtendimentoJS/assets/128835174/e4cfe849-f0a4-4cd9-be21-b23c88081c89">
 
 
 
